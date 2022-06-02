@@ -1,0 +1,13 @@
+C:\Users\luana\Projeto_CSharp\bin\Debug\netcoreapp3.1\Projeto_CSharp.exe
+C:\Users\luana\Projeto_CSharp\bin\Debug\netcoreapp3.1\Projeto_CSharp.deps.json
+C:\Users\luana\Projeto_CSharp\bin\Debug\netcoreapp3.1\Projeto_CSharp.runtimeconfig.json
+C:\Users\luana\Projeto_CSharp\bin\Debug\netcoreapp3.1\Projeto_CSharp.runtimeconfig.dev.json
+C:\Users\luana\Projeto_CSharp\bin\Debug\netcoreapp3.1\Projeto_CSharp.dll
+C:\Users\luana\Projeto_CSharp\bin\Debug\netcoreapp3.1\Projeto_CSharp.pdb
+C:\Users\luana\Projeto_CSharp\obj\Debug\netcoreapp3.1\Projeto_CSharp.csprojAssemblyReference.cache
+C:\Users\luana\Projeto_CSharp\obj\Debug\netcoreapp3.1\Projeto_CSharp.AssemblyInfoInputs.cache
+C:\Users\luana\Projeto_CSharp\obj\Debug\netcoreapp3.1\Projeto_CSharp.AssemblyInfo.cs
+C:\Users\luana\Projeto_CSharp\obj\Debug\netcoreapp3.1\Projeto_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\luana\Projeto_CSharp\obj\Debug\netcoreapp3.1\Projeto_CSharp.dll
+C:\Users\luana\Projeto_CSharp\obj\Debug\netcoreapp3.1\Projeto_CSharp.pdb
+C:\Users\luana\Projeto_CSharp\obj\Debug\netcoreapp3.1\Projeto_CSharp.genruntimeconfig.cache
